@@ -21,7 +21,7 @@ public class Tester {
 			choice = sc.nextInt();
 			System.out.println("Enter Choice again for the tester branch");
 			
-			
+			System.out.println("Enter Choice again for the tester branch to merge");
 			switch (choice) {
 			
 			case 1 : {
