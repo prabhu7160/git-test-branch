@@ -19,6 +19,8 @@ public class Tester {
 			
 			System.out.println("Enter Choice");
 			choice = sc.nextInt();
+			System.out.println("Enter Choice again for the tester branch");
+			
 			
 			switch (choice) {
 			
